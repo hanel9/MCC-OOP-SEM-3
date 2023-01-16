@@ -1,0 +1,9 @@
++ Lagi buat dashboardnya staff
+? (optional) Mau nambahin indikator pindah data appointment dalam bentuk text di clientBookingPageUI
+
+
+Image belum diganti ke local :
+> loginPageUI
+> clientNewBookingPage
+> clientBookingPageUI
+> clientAccountPageUI
